@@ -1,4 +1,7 @@
 # Getting Started with Create React App
+This is a github finder project. It was created to help people find github users and view their details. 
+The project was an opportunity to learn react DOM 6.
+It was hosted on netlify and you can check it out here https://abgithubfinder007.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
