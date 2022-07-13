@@ -1,7 +1,6 @@
-# Getting Started with Create React App
-This is a github finder project. It was created to help people find github users and view their details. 
-The project was an opportunity to learn react DOM 6.
-It was hosted on netlify and you can check it out here https://abgithubfinder007.netlify.app/
+# GitHub Finder with Reactjs
+This is a github finder project. It was created to help people find github users and view their details.
+It was hosted on netlify and you can check it out here: [GitHub Finder](https://abgithubfinder007.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -9,7 +8,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `yarn start`
+### `npm install`
+This command run the necessary node_modules that the application needs to run.
+Before running this command run, make sure you are in the src folder. You can run `cd GitHubFinder\src` to enter the folder. 
+
+### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -17,12 +20,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `yarn test`
+### `npm test`
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
+### `npm build`
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -32,7 +35,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
+### `npm eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 

@@ -63,7 +63,7 @@ const User = () => {
                             <p>{bio}</p>
                         </Fragment>
                     )}
-                    <a href={html_url} className='btn btn-dark my-1'>
+                    <a href={html_url} target="_blank" rel="noreferrer noopener" className='btn btn-dark my-1'>
                         Visit GitHub Profile
                     </a>
                     <ul>
